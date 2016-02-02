@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 4
+date: 2016-02-10
+img: todo.png
+alt: image-alt
+project-date: Jan 2016
+source: GitHub
+category: Ruby
+link: https://github.com/deepanmgn/todo
+description: <ul><li>Developed a simple to do app using ruby on rails.</li><li>Implemented a unique feature in sharing tasks with select users.</li></ul>
+
+demo:
+demo_link:
+
+---
