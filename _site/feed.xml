@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qingxiao Dong</title>
-    <description>Personal site of Qingxiao Dong, MCIT student at Penn.</description>
-    <link>https://lisalisadong.github.io/</link>
+    <title>Deepan Murugan</title>
+    <description>Portfolio site of Deepan Murugan, junior developer at CodeAstra</description>
+    <link>https://deepanmgn.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Feb 2016 14:50:49 +0530</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 14:50:49 +0530</lastBuildDate>
+    <pubDate>Thu, 18 Feb 2016 10:46:04 +0530</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2016 10:46:04 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Todo</title>
         <description>&lt;ul&gt;&lt;li&gt;Developed a simple to do app using ruby on rails.&lt;/li&gt;&lt;li&gt;Implemented a unique feature in sharing tasks with select users.&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 10 Feb 2016 00:00:00 +0530</pubDate>
-        <link>https://lisalisadong.github.io/ruby/2016/02/10/todo/</link>
-        <guid isPermaLink="true">https://lisalisadong.github.io/ruby/2016/02/10/todo/</guid>
+        <link>https://deepanmgn.github.io/ruby/2016/02/10/todo/</link>
+        <guid isPermaLink="true">https://deepanmgn.github.io/ruby/2016/02/10/todo/</guid>
         
         
         <category>ruby</category>

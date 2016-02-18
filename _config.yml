@@ -1,10 +1,10 @@
 # Site settings
-title: Qingxiao Dong
-email: qingxiao@cis.upenn.edu
-url: https://lisalisadong.github.io
-description: "Personal site of Qingxiao Dong, MCIT student at Penn."
-skills: "Computer Science Master Student at University of Pennsylvania (MCIT)"
-meta_author: Dong Qingxiao
+title: Deepan Murugan
+email: deep.mgn@gmail.com
+url: https://deepanmgn.github.io
+description: "Portfolio site of Deepan Murugan, junior developer at CodeAstra"
+skills: "Computer Science Master Student at University of Warwick"
+meta_author: Murugan Deepan
 
 # Google webmaster tools
 google_verify:
@@ -16,11 +16,11 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: lisalisadong
+disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright1: Dr. Henry Jekyll
-  copyright2: Qingxiao Dong
+  copyright2: Murugan Deepan
   location: Location
   social: Connect
   credits: Credits
@@ -40,11 +40,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/qingxiaodong
+    url: https://www.linkedin.com/in/deepanm
   - title: envelope-o
-    url: mailto:qingxiao@cis.upenn.edu
+    url: mailto:deep.mgn@gmail.com
   - title: github
-    url: https://github.com/lisalisadong
+    url: https://github.com/deepanmgn
 
 # Postal address (add as many lines as necessary)
 address:
