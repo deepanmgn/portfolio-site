@@ -5,13 +5,25 @@
     <description>Portfolio site of Deepan Murugan, junior developer at CodeAstra</description>
     <link>https://deepanmgn.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Feb 2016 10:46:04 +0530</pubDate>
-    <lastBuildDate>Thu, 18 Feb 2016 10:46:04 +0530</lastBuildDate>
+    <pubDate>Thu, 18 Feb 2016 12:01:42 +0530</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2016 12:01:42 +0530</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title>Mashup</title>
+        <description>&lt;ul&gt;&lt;li&gt;Developed a simple mashup app to list restaurants based on cuisine names.&lt;/li&gt;&lt;li&gt;Researched and explained the concept of semantic mashup for my masters thesis to collate data from two different sources.&lt;/li&gt;&lt;/ul&gt;</description>
+        <pubDate>Thu, 18 Feb 2016 00:00:00 +0530</pubDate>
+        <link>https://deepanmgn.github.io/python/2016/02/18/mashup/</link>
+        <guid isPermaLink="true">https://deepanmgn.github.io/python/2016/02/18/mashup/</guid>
+        
+        
+        <category>python</category>
+        
+      </item>
+    
+      <item>
         <title>Todo</title>
-        <description>&lt;ul&gt;&lt;li&gt;Developed a simple to do app using ruby on rails.&lt;/li&gt;&lt;li&gt;Implemented a unique feature in sharing tasks with select users.&lt;/li&gt;&lt;/ul&gt;</description>
+        <description>&lt;ul&gt;&lt;li&gt;Developed a simple to do app using ruby on rails.&lt;/li&gt;&lt;li&gt;Users can update task state to doing and done.&lt;/li&gt;&lt;/ul&gt;</description>
         <pubDate>Wed, 10 Feb 2016 00:00:00 +0530</pubDate>
         <link>https://deepanmgn.github.io/ruby/2016/02/10/todo/</link>
         <guid isPermaLink="true">https://deepanmgn.github.io/ruby/2016/02/10/todo/</guid>

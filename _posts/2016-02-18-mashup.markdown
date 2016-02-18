@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2016-02-18
+img: mashup.png
+alt: image-alt
+project-date: Oct 2012
+source: Github
+category: Python
+link: https://github.com/deepanmgn/mashup
+description: <ul><li>Developed a simple mashup app to list restaurants based on cuisine names.</li><li>Researched and explained the concept of semantic mashup for my masters thesis to collate data from two different sources.</li></ul>
+
+
+---
